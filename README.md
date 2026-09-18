@@ -25,6 +25,7 @@ The objective of this project is to:
 * **SQL** — Data exploration and analytical calculations
 * **Microsoft Power BI** — Interactive dashboard development and visualization
 * **DAX** — Creation of analytical measures and performance metrics
+* **Microsoft PowerPoint** — Data storytelling, visualization of insights, and presentation of analytical findings
 
 ## Methodology
 
