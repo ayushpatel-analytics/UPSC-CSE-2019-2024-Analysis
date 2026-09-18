@@ -20,6 +20,7 @@ The objective of this project is to:
 
 ## Tools & Technologies
 
+* **Microsoft Excel** — Data cleaning, exploratory analysis, calculations, and data preparation
 * **Google BigQuery** — Data storage, querying, and data preparation
 * **SQL** — Data exploration and analytical calculations
 * **Microsoft Power BI** — Interactive dashboard development and visualization
@@ -84,6 +85,7 @@ These findings describe observed patterns in the dataset and do not establish ca
 ## Power BI Dashboard
 
 The interactive Power BI dashboard provides a consolidated view of the UPSC Civil Services Examination from 2019–2024.
+![UPSC CSE 2019–2024 Power BI Dashboard](UPSC_2019_2024_PowerBI_Dashboard.png)
 
 ### Dashboard Components
 
@@ -112,19 +114,19 @@ UPSC-CSE-2019-2024-Analysis/
 ├── README.md
 │
 ├── data/
-│   └── UPSC_2019_2024.xlsx
+│   └── UPSC_CSE_2019_2024_Full_Dataset.xlsx
 │
 ├── sql/
-│   └── UPSC_Analysis_Queries.sql
+│   └── UPSC_2019_2024_SQL_Analysis.sql
 │
 ├── powerbi/
-│   └── UPSC_2019_2024_Dashboard.pbix
+│   └── UPSC_Civil_Services_Analysis_2019_2024.pbix
 │
 ├── screenshots/
 │   └── UPSC_2019_2024_PowerBI_Dashboard.png
 │
 └── presentation/
-    └── UPSC_CSE_2019_2024_Analysis.pptx
+    └── UPSC_Civil_Services_Analysis_2019_2024_Presentation_Final.pptx
 
 ## Business Analytics Value
 
