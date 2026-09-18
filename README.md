@@ -109,25 +109,16 @@ The dashboard is designed to help users quickly identify changes in participatio
 
 
 ## Project Structure
-
 UPSC-CSE-2019-2024-Analysis/
 │
 ├── README.md
-│
-├── data/
-│   └── UPSC_CSE_2019_2024_Full_Dataset.xlsx
-│
-├── sql/
-│   └── UPSC_2019_2024_SQL_Analysis.sql
-│
-├── powerbi/
-│   └── UPSC_Civil_Services_Analysis_2019_2024.pbix
-│
-├── screenshots/
-│   └── UPSC_2019_2024_PowerBI_Dashboard.png
-│
-└── presentation/
-    └── UPSC_Civil_Services_Analysis_2019_2024_Presentation_Final.pptx
+├── UPSC_CSE_2019_2024_Full_Dataset.xlsx
+├── UPSC_2019_2024_SQL_Analysis.sql
+├── UPSC_Civil_Services_Analysis_2019_2024.pbix
+├── UPSC_2019_2024_PowerBI_Dashboard.png
+└── UPSC_Civil_Services_Analysis_2019_2024_Presentation_Final.pptx
+
+
 
 ## Business Analytics Value
 
